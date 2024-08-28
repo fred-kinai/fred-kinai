@@ -2,7 +2,6 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Bachelors in business and information technology
 - 💞️ I’m looking to collaborate on github with friends and ms
-- 📫 How to reach me ...email me it@cyfred.co.ke
 
 <!---
 fred-kinai/fred-kinai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
