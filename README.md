@@ -1,1 +1,1 @@
-- 👋 Hi, I’m @fred-kinai
+- 👋 Hi, I’m @fredrick-kinai
